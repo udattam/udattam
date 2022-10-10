@@ -18,7 +18,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=udattam&theme=onedark&show_icons=true&locale=en&layout=compact&" alt="udattam" /></p> 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=udattam&theme=onedark&show_icons=true&locale=en" alt="udattam" /> </p>
-<p align="center"><img src="https://gpvc.arturio.dev/udattam" alt="udattam" /> </p>
+<p align="center"><img src=https://komarev.com/ghpvc/?username=udattam&color=brightgreen&label=NUMBER+OF+MORTALS+THAT+HAD+LAID+THEIR+EYES+ON+MY+DOMAIN:&style=flat alt="udattam" /> </p>
 
 <h2 align="center">🔎 Find me on:</h2>
 
