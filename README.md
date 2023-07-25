@@ -1,6 +1,6 @@
 <h1 align="center">😎 Udatta Mukherjee</h1>
 
-<p align="center">I am a web developer and a final year student at Jadavpur University, Kolkata. I am passionate about building web applications and learning new technologies. For jobs and internship opportunities, contact me over <a href="https://www.linkedin.com/in/udattam">LinkedIn</a> or <a href="mailto:udatta7980@gmail.com">email</a></p>
+<p align="center">I am a web developer and a engineering graduate from Jadavpur University, Kolkata. I am passionate about building web applications and learning new technologies. For jobs and internship opportunities, contact me over <a href="https://www.linkedin.com/in/udattam">LinkedIn</a> or <a href="mailto:udatta7980@gmail.com">email</a></p>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/udattam/No-Leftovers">No Leftovers</a>, a web application that helps you reduce wastage of food by suggesting recipes based on the ingredients you have at home</li>
 <li>🌱 I’m currently learning how to use third party APIs with React to build <a href="https://github.com/udattam/No-Leftovers">No Leftovers</a></li>
